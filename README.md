@@ -63,16 +63,25 @@
 |------|------|
 | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 目前 Vibe Coding 体验最佳的 IDE |
 | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 出品，代码生成与推理能力强 |
+| ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 官方 CLI 工具，终端内直接用 AI 编码、调试、重构 |
 | **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
 | **Bolt.new** | 从描述直接生成完整应用 |
+
+#### 🔄 自动化 & 工作流
+
+| 工具 | 说明 |
+|------|------|
+| ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | 开源工作流自动化平台，可视化连接 API、数据库与 AI 服务 |
+| **OpenClaw** | AI 驱动的开发辅助工具，提升 Vibe Coding 工作流效率 |
 
 #### 💡 最佳组合
 
 ```
-Next.js + TypeScript + Tailwind + shadcn/ui + Supabase + Prisma + Vercel + Cursor
+Next.js + TypeScript + Tailwind + shadcn/ui + Supabase + Prisma + Vercel + Cursor + Claude Code + n8n + OpenClaw
 ```
 
 > ☝️ 这套组合是目前 Vibe Coding 体验的天花板 —— AI 对这套栈的理解最深、生成质量最高、出错最少。
+> 搭配 Claude Code 在终端直接 AI 编码，n8n 实现工作流自动化，OpenClaw 串联整个开发流程。
 
 ---
 
