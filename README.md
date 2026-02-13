@@ -81,7 +81,7 @@
 | ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white) | 开源产品分析平台，事件追踪 + 功能开关 + 会话回放一体 |
 | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) | 实时错误监控与性能追踪，快速定位线上问题 |
 
-#### 🤖 AI & 自动化
+#### 🤖 AI
 
 | 技术 | 说明 |
 |------|------|
