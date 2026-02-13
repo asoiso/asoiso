@@ -17,6 +17,65 @@
 
 ---
 
+<!-- 🇨🇳 中文版本 | 🇺🇸 English version coming soon -->
+
+### 🎨 Vibe Coding 技术栈
+
+> **Vibe Coding** —— 跟着感觉走，用自然语言描述需求，让 AI 帮你生成代码，尽量减少手动编码。
+> 对这种开发方式最友好的技术栈：生态成熟、约定大于配置、AI 训练数据丰富、样板代码少。
+
+#### 🖥️ 前端
+
+| 技术 | 说明 |
+|------|------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | 文件路由 + Server Components，约定式设计让 AI 轻松理解项目结构 |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 类型安全，AI 生成代码质量更高 |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Utility-first，结构与样式在单文件内完成，无需跳转 |
+| ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) | 复制粘贴式组件库，AI 生成的代码一致性高 |
+
+#### ⚙️ 后端
+
+| 技术 | 说明 |
+|------|------|
+| ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | PostgreSQL + Auth + Realtime + Storage 一站式，大幅减少基础设施代码 |
+| ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) | Google 生态，BaaS 方案，适合快速原型 |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Python 生态，类型提示清晰、代码简洁，AI 友好度极高 |
+
+#### 🗄️ 数据库 & ORM
+
+| 技术 | 说明 |
+|------|------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
+| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
+| ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) | 轻量级 TypeScript ORM，类型安全 |
+
+#### 🚀 部署
+
+| 技术 | 说明 |
+|------|------|
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | 零配置一键部署，与 Next.js 深度集成 |
+| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) | 前端部署首选之一 |
+| ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) | 全栈应用一站式部署 |
+
+#### 🤖 AI 辅助工具链
+
+| 工具 | 说明 |
+|------|------|
+| ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 目前 Vibe Coding 体验最佳的 IDE |
+| ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 出品，代码生成与推理能力强 |
+| **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
+| **Bolt.new** | 从描述直接生成完整应用 |
+
+#### 💡 最佳组合
+
+```
+Next.js + TypeScript + Tailwind + shadcn/ui + Supabase + Prisma + Vercel + Cursor
+```
+
+> ☝️ 这套组合是目前 Vibe Coding 体验的天花板 —— AI 对这套栈的理解最深、生成质量最高、出错最少。
+
+---
+
 ### GitHub Stats
 
 <p align="center">
