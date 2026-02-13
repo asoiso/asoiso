@@ -51,19 +51,14 @@
 | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | PostgreSQL + Auth + Realtime + Storage 一站式，大幅减少基础设施代码 |
 | ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) | 超轻量 Web 框架，Edge Runtime 友好，多运行时通用 |
 | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | 企业级 Node.js 框架，模块化架构，装饰器驱动 |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
+| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
 | ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white) | 开源 Headless CMS，可视化内容建模，自动生成 API |
 | ![Payload](https://img.shields.io/badge/Payload-000000?style=flat-square&logo=payload&logoColor=white) | 代码优先的 Headless CMS，TypeScript 原生，与 Next.js 深度集成 |
 | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) | 开箱即用的用户认证，预置 UI 组件，集成极快 |
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | 支付基础设施标杆，API 设计优雅，AI 文档丰富 |
 
-#### 🗄️ 数据
-
-| 技术 | 说明 |
-|------|------|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
-| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
-
-#### 🛠️ DevOps
+#### 🛠️ 工程化
 
 | 技术 | 说明 |
 |------|------|
