@@ -60,6 +60,27 @@
 | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 官方 CLI 工具，终端内直接用 AI 编码、调试、重构 |
 | **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
 
+#### 🔐 认证 & 支付
+
+| 技术 | 说明 |
+|------|------|
+| ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) | 开箱即用的用户认证，预置 UI 组件，集成极快 |
+| ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | 支付基础设施标杆，API 设计优雅，AI 文档丰富 |
+
+#### 📊 数据分析 & 监控
+
+| 技术 | 说明 |
+|------|------|
+| ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) | 网站流量分析行业标准 |
+| ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white) | 开源产品分析平台，事件追踪 + 功能开关 + 会话回放一体 |
+| ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) | 实时错误监控与性能追踪，快速定位线上问题 |
+
+#### 📝 文档
+
+| 技术 | 说明 |
+|------|------|
+| ![Mintlify](https://img.shields.io/badge/Mintlify-0D9373?style=flat-square&logo=mintlify&logoColor=white) | 现代化文档框架，Markdown 驱动，自动生成 API 文档 |
+
 #### 🔄 自动化 & 工作流
 
 | 工具 | 说明 |
