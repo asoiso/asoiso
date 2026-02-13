@@ -36,7 +36,7 @@
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) | 复制粘贴式组件库，AI 生成的代码一致性高 |
 | ![Magic UI](https://img.shields.io/badge/Magic_UI-000000?style=flat-square&logo=magic&logoColor=white) | 动效丰富的 React 组件库，开箱即用的精美动画 |
 
-#### ⚙️ 后端 & 数据
+#### ⚙️ 后端
 
 | 技术 | 说明 |
 |------|------|
@@ -45,10 +45,15 @@
 | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | 企业级 Node.js 框架，模块化架构，装饰器驱动 |
 | ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white) | 开源 Headless CMS，可视化内容建模，自动生成 API |
 | ![Payload](https://img.shields.io/badge/Payload-000000?style=flat-square&logo=payload&logoColor=white) | 代码优先的 Headless CMS，TypeScript 原生，与 Next.js 深度集成 |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
-| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
 | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) | 开箱即用的用户认证，预置 UI 组件，集成极快 |
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | 支付基础设施标杆，API 设计优雅，AI 文档丰富 |
+
+#### 🗄️ 数据
+
+| 技术 | 说明 |
+|------|------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
+| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
 
 #### 📱 跨端
 
