@@ -36,6 +36,14 @@
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) | 复制粘贴式组件库，AI 生成的代码一致性高 |
 | ![Magic UI](https://img.shields.io/badge/Magic_UI-000000?style=flat-square&logo=magic&logoColor=white) | 动效丰富的 React 组件库，开箱即用的精美动画 |
 
+#### 📱 跨端
+
+| 技术 | 说明 |
+|------|------|
+| ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | React 生态移动端方案，一套代码构建 iOS & Android |
+| ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | React Native 开发平台，零配置构建、预览与发布 |
+| ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) | Rust 驱动的桌面应用框架，体积小性能高 |
+
 #### ⚙️ 后端
 
 | 技术 | 说明 |
@@ -54,14 +62,6 @@
 |------|------|
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
 | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
-
-#### 📱 跨端
-
-| 技术 | 说明 |
-|------|------|
-| ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | React 生态移动端方案，一套代码构建 iOS & Android |
-| ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | React Native 开发平台，零配置构建、预览与发布 |
-| ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) | Rust 驱动的桌面应用框架，体积小性能高 |
 
 #### 🛠️ 工程化 & 部署
 
