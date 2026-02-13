@@ -38,8 +38,6 @@
 | 技术 | 说明 |
 |------|------|
 | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | PostgreSQL + Auth + Realtime + Storage 一站式，大幅减少基础设施代码 |
-| ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) | Google 生态，BaaS 方案，适合快速原型 |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Python 生态，类型提示清晰、代码简洁，AI 友好度极高 |
 
 #### 🗄️ 数据库 & ORM
 
@@ -47,25 +45,20 @@
 |------|------|
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
 | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
-| ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) | 轻量级 TypeScript ORM，类型安全 |
 
 #### 🚀 部署
 
 | 技术 | 说明 |
 |------|------|
 | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | 零配置一键部署，与 Next.js 深度集成 |
-| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) | 前端部署首选之一 |
-| ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) | 全栈应用一站式部署 |
 
 #### 🤖 AI 辅助工具链
 
 | 工具 | 说明 |
 |------|------|
 | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 目前 Vibe Coding 体验最佳的 IDE |
-| ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 出品，代码生成与推理能力强 |
 | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 官方 CLI 工具，终端内直接用 AI 编码、调试、重构 |
 | **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
-| **Bolt.new** | 从描述直接生成完整应用 |
 
 #### 🔄 自动化 & 工作流
 
@@ -73,15 +66,6 @@
 |------|------|
 | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | 开源工作流自动化平台，可视化连接 API、数据库与 AI 服务 |
 | **OpenClaw** | AI 驱动的开发辅助工具，提升 Vibe Coding 工作流效率 |
-
-#### 💡 最佳组合
-
-```
-Next.js + TypeScript + Tailwind + shadcn/ui + Supabase + Prisma + Vercel + Cursor + Claude Code + n8n + OpenClaw
-```
-
-> ☝️ 这套组合是目前 Vibe Coding 体验的天花板 —— AI 对这套栈的理解最深、生成质量最高、出错最少。
-> 搭配 Claude Code 在终端直接 AI 编码，n8n 实现工作流自动化，OpenClaw 串联整个开发流程。
 
 ---
 
