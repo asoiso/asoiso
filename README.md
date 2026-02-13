@@ -63,7 +63,7 @@
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 最受欢迎的开源关系型数据库 |
 | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Schema 即代码，AI 可从 schema 直接推断查询逻辑 |
 
-#### 🛠️ 工程化 & 部署
+#### 🛠️ DevOps
 
 | 技术 | 说明 |
 |------|------|
