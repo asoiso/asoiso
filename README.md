@@ -9,17 +9,17 @@
 
 ### About Me
 
-- 🔭 I'm currently working on building awesome projects
-- 🌱 I'm always learning new technologies and improving my skills
-- 👯 I'm open to collaborating on interesting open-source projects
-- 💬 Feel free to reach out — I'd love to connect!
-- 📫 How to reach me: **asoisox@gmail.com**
+- 🎯 Vibe Coding 实践者 —— 用自然语言写代码，让 AI 处理实现细节
+- 🧰 专注打磨 AI 友好的技术栈，追求开发效率最大化
+- 🌱 持续探索 AI 辅助开发的最佳实践
+- 👯 欢迎交流 Vibe Coding 经验与开源协作
+- 📫 联系我: **asoisox@gmail.com**
 
 ---
 
 <!-- 🇨🇳 中文版本 | 🇺🇸 English version coming soon -->
 
-### 🎨 Vibe Coding 技术栈
+### 🛸 Vibe Coding 技术栈
 
 > **Vibe Coding** —— 跟着感觉走，用自然语言描述需求，让 AI 帮你生成代码，尽量减少手动编码。
 > 对这种开发方式最友好的技术栈：生态成熟、约定大于配置、AI 训练数据丰富、样板代码少。
@@ -40,16 +40,11 @@
 | ![TanStack](https://img.shields.io/badge/TanStack-EF4444?style=flat-square&logo=reactquery&logoColor=white) | 数据请求、表格、路由等高质量 Headless 工具集 |
 | ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white) | 极简状态管理，API 直觉化，AI 一次生成即可用 |
 
-#### 🎨 样式
+#### 🎨 样式 & UI
 
 | 技术 | 说明 |
 |------|------|
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Utility-first，结构与样式在单文件内完成，无需跳转 |
-
-#### 🧱 UI 组件库
-
-| 技术 | 说明 |
-|------|------|
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) | 复制粘贴式组件库，AI 生成的代码一致性高 |
 | ![Magic UI](https://img.shields.io/badge/Magic_UI-000000?style=flat-square&logo=magic&logoColor=white) | 动效丰富的 React 组件库，开箱即用的精美动画 |
 
@@ -77,17 +72,12 @@
 | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) | 开箱即用的用户认证，预置 UI 组件，集成极快 |
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | 支付基础设施标杆，API 设计优雅，AI 文档丰富 |
 
-#### 📱 移动端
+#### 📱 跨端
 
 | 技术 | 说明 |
 |------|------|
 | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | React 生态移动端方案，一套代码构建 iOS & Android |
 | ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | React Native 开发平台，零配置构建、预览与发布 |
-
-#### 🖥️ 桌面端
-
-| 技术 | 说明 |
-|------|------|
 | ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) | Rust 驱动的桌面应用框架，体积小性能高 |
 
 #### 🛠️ 工具
@@ -125,7 +115,7 @@
 | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 目前 Vibe Coding 体验最佳的 IDE |
 | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 官方 CLI 工具，终端内直接用 AI 编码、调试、重构 |
 | ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white) | 统一 AI 模型调用接口，流式响应开箱即用 |
-| **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
+| ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white) | Vercel 出品，自然语言直接生成 UI 组件 |
 
 #### 🔄 自动化 & 工作流
 
