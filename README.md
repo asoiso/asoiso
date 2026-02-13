@@ -32,12 +32,19 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 类型安全，AI 生成代码质量更高 |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | Utility-first，结构与样式在单文件内完成，无需跳转 |
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) | 复制粘贴式组件库，AI 生成的代码一致性高 |
+| ![Magic UI](https://img.shields.io/badge/Magic_UI-000000?style=flat-square&logo=magic&logoColor=white) | 动效丰富的 React 组件库，开箱即用的精美动画 |
+| ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white) | 极简状态管理，API 直觉化，AI 一次生成即可用 |
+| ![TanStack](https://img.shields.io/badge/TanStack-EF4444?style=flat-square&logo=reactquery&logoColor=white) | 数据请求、表格、路由等高质量 Headless 工具集 |
 
 #### ⚙️ 后端
 
 | 技术 | 说明 |
 |------|------|
 | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | PostgreSQL + Auth + Realtime + Storage 一站式，大幅减少基础设施代码 |
+| ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) | 超轻量 Web 框架，Edge Runtime 友好，多运行时通用 |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | 企业级 Node.js 框架，模块化架构，装饰器驱动 |
+| ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white) | 开源 Headless CMS，可视化内容建模，自动生成 API |
+| ![Payload](https://img.shields.io/badge/Payload-000000?style=flat-square&logo=payload&logoColor=white) | 代码优先的 Headless CMS，TypeScript 原生，与 Next.js 深度集成 |
 
 #### 🗄️ 数据库 & ORM
 
@@ -58,7 +65,24 @@
 |------|------|
 | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 目前 Vibe Coding 体验最佳的 IDE |
 | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic 官方 CLI 工具，终端内直接用 AI 编码、调试、重构 |
+| ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white) | 统一 AI 模型调用接口，流式响应开箱即用 |
 | **v0** | Vercel 出品，自然语言直接生成 UI 组件 |
+
+#### 📱 跨端
+
+| 技术 | 说明 |
+|------|------|
+| ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | React 生态移动端方案，一套代码构建 iOS & Android |
+| ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | React Native 开发平台，零配置构建、预览与发布 |
+| ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) | Rust 驱动的桌面应用框架，体积小性能高 |
+
+#### 🛠️ 工程化
+
+| 技术 | 说明 |
+|------|------|
+| ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) | 极速 JavaScript 运行时，内置打包、测试、包管理 |
+| ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white) | Rust 编写的格式化 + Lint 一体化工具，替代 ESLint + Prettier |
+| ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white) | 高性能 Monorepo 构建系统，增量构建与远程缓存 |
 
 #### 🔐 认证 & 支付
 
