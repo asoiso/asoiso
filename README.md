@@ -114,21 +114,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asoiso&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoiso&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asoiso&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoiso&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
